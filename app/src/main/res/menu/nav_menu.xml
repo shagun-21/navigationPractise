@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:shownIn="nav_view">
+
+    <item android:title="profile"
+        android:id="@+id/profile"/>
+    <item android:title="contact"
+        android:id="@+id/contact"/>
+    <item android:title="about"
+        android:id="@+id/about"/>
+</menu>
